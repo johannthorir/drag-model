@@ -1,7 +1,7 @@
 # drag-model
 Coefficient of Drag for ballistics.
 
-The coefficient of drag is a function of the mach number so the argument to 
+The coefficient of drag is a function of the mach number so the argument to the function needs to be converted.
 
 ## Use 
 ```javascript
